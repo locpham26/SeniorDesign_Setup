@@ -23,6 +23,9 @@ const GlobalStyle = createGlobalStyle`
         color: inherit;
         text-decoration: none;
     }
+    #__next {
+        height: 100%;
+    }
 `;
 
 export default GlobalStyle;

@@ -1,4 +1,4 @@
-import AuthLayout from "@core/AuthLayout";
+import { AuthLayout } from "@core";
 
 const Login = () => {
   return <h1>Login</h1>;
